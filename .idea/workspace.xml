@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc846b9-176c-4230-986e-e7178743cacd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Source/index.html" />
+      <change beforePath="$PROJECT_DIR$/Documentation/create_repo.PNG" afterPath="$PROJECT_DIR$/Documentation/create_repo.PNG" />
+      <change beforePath="$PROJECT_DIR$/Source/index.html" afterPath="$PROJECT_DIR$/Source/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Source/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="24" column="149" lean-forward="false" selection-start-line="24" selection-start-column="149" selection-end-line="24" selection-end-column="149" />
+            <state relative-caret-position="472">
+              <caret line="68" column="156" lean-forward="false" selection-start-line="68" selection-start-column="156" selection-end-line="68" selection-end-column="156" />
               <folding />
             </state>
           </provider>
@@ -128,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516482618090</updated>
-      <workItem from="1516482619465" duration="1583000" />
+      <workItem from="1516482619465" duration="2619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1583000" />
+    <option name="totallyTimeSpent" value="2619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -171,8 +171,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Source/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="24" column="149" lean-forward="false" selection-start-line="24" selection-start-column="149" selection-end-line="24" selection-end-column="149" />
+        <state relative-caret-position="472">
+          <caret line="68" column="156" lean-forward="false" selection-start-line="68" selection-start-column="156" selection-end-line="68" selection-end-column="156" />
           <folding />
         </state>
       </provider>
